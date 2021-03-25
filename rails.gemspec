@@ -36,8 +36,6 @@ Gem::Specification.new do |s|
   s.add_dependency "actionmailer",  version
   s.add_dependency "activejob",     version
   s.add_dependency "actioncable",   version
-  s.add_dependency "activestorage", version
-  s.add_dependency "actionmailbox", version
   s.add_dependency "actiontext",    version
   s.add_dependency "railties",      version
 
